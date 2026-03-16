@@ -60,6 +60,7 @@ body {
   letter-spacing: .4px;
 }
 .brand img { width: 142px; height: auto; display:block; }
+.brand img { width: 38px; height: 38px; }
 
 .main-nav {
   display: flex;
